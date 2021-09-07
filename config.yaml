@@ -11,7 +11,7 @@ languages:
   en:
     title: My drain is all bump
     weight: 1
-    contentDir: content/en
+    contentDir: content/posts
 
 sitemap:
   changefreq: daily
