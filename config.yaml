@@ -27,3 +27,6 @@ params:
 markup:
   highlight:
     style: nativeU
+
+permalinks:
+  post: '/posts/:slug'
