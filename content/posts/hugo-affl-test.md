@@ -1,11 +1,11 @@
 ---
-title: "AFFL 2021-09-06"
+title: "❄ AFFL 2021-09-06"
 date: 2021-09-08 
 author: ["Kevin"]
 draft: "false"
 ---
 
-# 23rd of Eleasis continued {#23rd-of-eleasis-continued}
+# 📅 23rd of Eleasis continued {#23rd-of-eleasis-continued}
 
 *  The party has a moment to consider if they want to press on to Tumen Ord or go back to Ice End
 *  Yellow Arrow is another warlord
@@ -20,7 +20,7 @@ draft: "false"
     *  It goes relatively smoothly
 
 
-# 1st of Eleint {#1st-of-eleint}
+# 📅  1st of Eleint {#1st-of-eleint}
 
 *  The days are long and hot
 *  We near the area that Okin described to us
