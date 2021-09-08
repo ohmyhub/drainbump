@@ -1,5 +1,5 @@
 ---
-title: "❄ AFFL 2021-09-06"
+title: "🏔 AFFL 2021-09-06"
 date: 2021-09-08 
 author: ["Kevin"]
 draft: "false"
