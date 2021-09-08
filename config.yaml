@@ -32,8 +32,8 @@ markup:
   highlight:
     style: nativeU
 
-frontmatter
+frontmatter:
   lastmod:
   - lastmod
   - :fileModTime
-  - :default:
+  - :default
