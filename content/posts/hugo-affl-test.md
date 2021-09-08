@@ -1,8 +1,9 @@
-+++
-title = "AFFL 2021-09-06"
-author = ["Kevin"]
-draft = false
-+++
+---
+title: "AFFL 2021-09-06"
+date: <2021-09-08 Wed 01:43> 
+author: ["Kevin"]
+draft: "false"
+---
 
 ## 2021-09-06, Monday {#2021-09-06-monday}
 
