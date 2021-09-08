@@ -7,11 +7,11 @@ SectionPagesMenu: main
 Paginate: 3
 googleAnalytics: ""
 
-languages:
-  en:
-    title: My drain is all bump
-    weight: 1
-    contentDir: content/posts
+
+title: My drain is all bump
+weight: 1
+
+contentDir: content/posts
 
 sitemap:
   changefreq: daily
@@ -23,10 +23,17 @@ params:
   site_logo: null
   description: So that's what happened.
   recent_posts_number: 10
+  AuthorName: Kevin Ward
+
+permalinks:
+  posts: /:year/:month/:title/
 
 markup:
   highlight:
     style: nativeU
 
-permalinks:
-  post: '/posts/:slug'
+frontmatter
+  lastmod:
+  - lastmod
+  - :fileModTime
+  - :default:
