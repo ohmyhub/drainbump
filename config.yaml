@@ -1,15 +1,11 @@
-baseRL: https://github.com/ohmyhub/drainbump
-languageCode: en-us
+baseURL: https://github.com/ohmyhub/drainbump
+title: Drain Bump
 theme: github.com/setsevireon/photophobia
 
 DefaultContentLanguage: en
 SectionPagesMenu: main
 Paginate: 3
 googleAnalytics: ""
-
-
-title: My drain is all bump
-weight: 1
 
 contentDir: content/posts
 
@@ -31,9 +27,3 @@ permalinks:
 markup:
   highlight:
     style: nativeU
-
-frontmatter:
-  lastmod:
-  - lastmod
-  - :fileModTime
-  - :default
