@@ -5,13 +5,15 @@ author: ["Kevin"]
 draft: "false"
 ---
 
-#🖼 Portrait of a Lady on Fire (10/10) {#portrait-of-a-lady-on-fire-10-10}
+# 🖼 Portrait of a Lady on Fire (10/10) {#portrait-of-a-lady-on-fire-10-10}
 -   Year: 2019
 -   Genre: Romance/Drama
 -   Language: French, Italian
 -   Director: Céline Sciamma
 -   Leads: Adèle Haenel (Heloise), Noémie Merlant (Marianne), Luàna Bajrami (Sophie), Valeria Golino (The Countess)
 -   Run-time: 1h 59m
+
+&nbsp;
 
 This is an amazing movie. Several things stood out to me.
 
